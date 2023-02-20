@@ -30,4 +30,4 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________________________
 ### Favorite SUbjects |
 
-I like Araling Panlipunan, Science, and Computer the most because I think they are fun and interesting.
+#### I like Araling Panlipunan, Science, and Computer the most because I think they are fun and interesting.
